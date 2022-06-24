@@ -1829,9 +1829,9 @@ Result:
 
 How to find where is the problem? 
 
-By jpa (Java Virtual Machine Process Status Tool)
+By jps (Java Virtual Machine Process Status Tool)
 
-1. `jpa -l` to track the process
+1. `jps -l` to track the process
 
    ```java
    PS E:\IdeaProjects\juc> jps -l
